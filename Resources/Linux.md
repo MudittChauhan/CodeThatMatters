@@ -64,10 +64,9 @@
 <br>
 <li> <code>rmdir</code>
   <ul>
-    <li> <code>rmdir</code> : This command will delete a directory.<br>
-	<code>rmdir <dirname></code> : This will delete the directory, only if it is empty.<br>
-	<code>rmdir -p <dirname></code> : This will delete the empty directory with all the empty nested directories.<br>
-	<code>rmdir -r <dirname></code> : This will recursively delete the directory along with all its files & sub-directories.<br>
+	  <li> <code>rmdir</code> : This will delete the directory, only if it is empty.</li>
+    <li> <code>rmdir -p <dirname></code> : This will delete the empty directory with all the empty nested directories.</li>
+    <li> <code>rmdir -r <dirname></code> : This will recursively delete the directory along with all its files & sub-directories.</li>
     </li>
   </ul>
 </li>  
